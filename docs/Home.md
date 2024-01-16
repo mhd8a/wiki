@@ -1,3 +1,3 @@
 Welcome to Demopages
 
-! [Calculator] (Calculator.PNG)
+![Calculator](Calculator.PNG)
